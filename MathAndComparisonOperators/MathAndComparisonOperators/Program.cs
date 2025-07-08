@@ -10,13 +10,13 @@ namespace MathAndComparisonOperators
     {
         static void Main(string[] args)
         {
-            int total = 5 + 10;
-            int otherTotal = 21 + 22;
-            int combined = total + otherTotal;
-            Console.WriteLine(combined);
-            Console.ReadLine();
+            //int total = 5 + 10;
+            //int otherTotal = 21 + 22;
+            //int combined = total + otherTotal;            int difference = 10 - 5;
 
-            int difference = 10 - 5;
+            //Console.WriteLine(combined);
+            //Console.ReadLine();
+
             Console.WriteLine("Ten minus Five = " + difference);
         }
     }

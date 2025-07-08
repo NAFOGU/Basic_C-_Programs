@@ -1,0 +1,7 @@
+C:\Users\USER\OneDrive\Desktop\Basic_C#_Programs\Shipping Quote\Shipping Quote\bin\Debug\Shipping Quote.exe.config
+C:\Users\USER\OneDrive\Desktop\Basic_C#_Programs\Shipping Quote\Shipping Quote\bin\Debug\Shipping Quote.exe
+C:\Users\USER\OneDrive\Desktop\Basic_C#_Programs\Shipping Quote\Shipping Quote\bin\Debug\Shipping Quote.pdb
+C:\Users\USER\OneDrive\Desktop\Basic_C#_Programs\Shipping Quote\Shipping Quote\obj\Debug\Shipping Quote.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\Basic_C#_Programs\Shipping Quote\Shipping Quote\obj\Debug\Shipping Quote.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\Basic_C#_Programs\Shipping Quote\Shipping Quote\obj\Debug\Shipping Quote.exe
+C:\Users\USER\OneDrive\Desktop\Basic_C#_Programs\Shipping Quote\Shipping Quote\obj\Debug\Shipping Quote.pdb
