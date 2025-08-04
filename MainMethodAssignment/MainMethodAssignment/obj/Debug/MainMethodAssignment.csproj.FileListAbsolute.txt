@@ -1,0 +1,6 @@
+C:\Users\USER\OneDrive\Desktop\Basic_C#_Programs\MainMethodAssignment\MainMethodAssignment\obj\Debug\MainMethodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\Basic_C#_Programs\MainMethodAssignment\MainMethodAssignment\bin\Debug\MainMethodAssignment.exe.config
+C:\Users\USER\OneDrive\Desktop\Basic_C#_Programs\MainMethodAssignment\MainMethodAssignment\bin\Debug\MainMethodAssignment.exe
+C:\Users\USER\OneDrive\Desktop\Basic_C#_Programs\MainMethodAssignment\MainMethodAssignment\bin\Debug\MainMethodAssignment.pdb
+C:\Users\USER\OneDrive\Desktop\Basic_C#_Programs\MainMethodAssignment\MainMethodAssignment\obj\Debug\MainMethodAssignment.exe
+C:\Users\USER\OneDrive\Desktop\Basic_C#_Programs\MainMethodAssignment\MainMethodAssignment\obj\Debug\MainMethodAssignment.pdb
