@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOne
+namespace Casino
 {
     public class Dealer
     {
@@ -15,7 +15,7 @@ namespace TwentyOne
         public void Deal(List<Card> Hand)
         {
             Hand.Add(Deck.Cards.First());
-            Console.WriteLine(Deck.Cards.First().ToString() + "/n");
+            Console.WriteLine(Deck.Cards.First().ToString() + "\n");
             Deck.Cards.RemoveAt(0);
         }
     }
